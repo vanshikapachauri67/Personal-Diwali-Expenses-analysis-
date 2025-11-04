@@ -52,7 +52,7 @@ The analysis was carried out in multiple stages to transform and visualize finan
 
 ## 📄 Detailed Project Documentation  
 For a complete **end-to-end explanation of data preparation, DAX formulas, and Power BI setup**, refer to the full documentation:  
-👉 [View Detailed Project Document]("https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/blob/main/Document.pdf")
+👉 [View Detailed Project Document](https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/blob/main/Document.pdf)
 
 ---
 
