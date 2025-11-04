@@ -67,7 +67,7 @@ For a complete **end-to-end explanation of data preparation, DAX formulas, and P
 ## 📈 Dashboard Overview  
 
 <p align="center">
-  <img src="https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/Dashboard.png" alt="Power BI Dashboard Screenshot" width="800"/>
+  <img src="https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/Dashboard.png.png" alt="Power BI Dashboard Screenshot" width="800"/>
 </p>
 
 The **Power BI dashboard** provides a dynamic overview of Diwali-related financial performance, featuring:  
