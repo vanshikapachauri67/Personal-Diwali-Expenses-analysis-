@@ -52,7 +52,7 @@ The analysis was carried out in multiple stages to transform and visualize finan
 
 ## 📄 Detailed Project Documentation  
 For a complete **end-to-end explanation of data preparation, DAX formulas, and Power BI setup**, refer to the full documentation:  
-👉 [View Detailed Project Document]("https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/Document.docx")
+👉 [View Detailed Project Document]("https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/blob/main/Document.pdf")
 
 ---
 
@@ -67,7 +67,7 @@ For a complete **end-to-end explanation of data preparation, DAX formulas, and P
 ## 📈 Dashboard Overview  
 
 <p align="center">
-  <img src="https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/Dashboard.png.png" alt="Power BI Dashboard Screenshot" width="800"/>
+  <img src="https://github.com/vanshikapachauri67/Personal-Diwali-Expenses-analysis-/blob/main/Dashboard.png.png" alt="Power BI Dashboard Screenshot" width="800"/>
 </p>
 
 The **Power BI dashboard** provides a dynamic overview of Diwali-related financial performance, featuring:  
